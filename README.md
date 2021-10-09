@@ -1,8 +1,11 @@
-# FurbotDoc
+<div align="center">
+  
+
+  <h1>Furbot Doc</h1>
 这里是Furbot的文档，很抱歉，由于个人的代码水平有限，Bot目前无法开放自建模块的源代码（写的太差劲自己看不下去）。
 
   <h2>炸毛框架</h2>
-Bot模块功能基于炸毛框架，是一个Swoole Base的协程高性能框架
+Bot模块功能基于<a herf="https://github.com/zhamao-robot/zhamao-framework"> 炸毛框架 </a>，是一个Swoole Base的协程高性能框架<br>
 <img src="https://cdn.jsdelivr.net/gh/zhamao-robot/zhamao-framework/resources/images/logo_trans.png" width = "150" height = "150" alt="炸毛框架"><br>
 
 炸毛框架 (zhamao-framework) 是一个协程高性能的聊天机器人 + Web 服务器开发框架<br><br>
@@ -21,3 +24,4 @@ Bot的文档位于：https://www.kancloud.cn/furleywolf/furbot/2482927
 你可以通过Github的Issue来向开发者反馈。
 
 [![Issue](https://img.shields.io/badge/提交一个Issue-success)](https://github.com/furleywolf/FurbotDoc/issues/new)
+<div/>
